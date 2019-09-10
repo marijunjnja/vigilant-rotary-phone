@@ -4,8 +4,7 @@
 
 #### consoleTracker.js
 This file runs a tracker that updates every 10 seconds in the terminal.
-Modify <code>const myPosition</code> to that of your location and then run
-    node consoleTracker.js
+Modify <code>const myPosition</code> to that of your location and then run <code>node consoleTracker.js</code> in the terminal
 
 
 ### server.js
