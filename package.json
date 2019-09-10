@@ -1,0 +1,24 @@
+{
+  "name": "vigilant-rotary-phone",
+  "version": "1.0.0",
+  "description": "space tracker",
+  "main": "consoleTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marijunjnja/vigilant-rotary-phone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marijunjnja/vigilant-rotary-phone/issues"
+  },
+  "homepage": "https://github.com/marijunjnja/vigilant-rotary-phone#readme",
+  "dependencies": {
+    "geolib": "^3.0.4",
+    "got": "^9.6.0"
+  }
+}
