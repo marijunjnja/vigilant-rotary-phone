@@ -13,7 +13,7 @@ const makeServer = (distance) => {
 }
 
 const distance = async () => {
-  const issTracker = await require('./issTrack')
+  const issTracker = await require('./consoleTracker')
   return await issTracker.getDistance.then((res) => {
     console.log(`res2: ${res}`)
     makeServer(res)
