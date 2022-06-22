@@ -19,6 +19,6 @@
   "homepage": "https://github.com/marijunjnja/vigilant-rotary-phone#readme",
   "dependencies": {
     "geolib": "^3.0.4",
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   }
 }
